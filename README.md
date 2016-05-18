@@ -12,3 +12,4 @@ Resources and scripts to experiment with link prediction in a network
 * Python NetworkX function :[```link_prediction``` ](https://networkx.github.io/documentation/development/reference/algorithms.link_prediction.html)
 * A [short example](http://stackoverflow.com/questions/27462803/python-networkx-link-prediction-with-adamic-adar-index) on SO
 * A [Tutorial using GraphLab](https://dato.com/learn/gallery/notebooks/link_prediction.html) on a large dataset
+* A solution called **LinkPred** [Slides](http://www.slideshare.net/RafG/link-prediction-with-the-linkpred-tool), [Github](https://github.com/rafguns/linkpred)
