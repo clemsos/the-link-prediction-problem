@@ -9,6 +9,6 @@ Resources and scripts to experiment with link prediction in a network
 * Lecture http://classes.engr.oregonstate.edu/eecs/fall2015/cs519-008/slides/SNA_Lecture_3.pdf
 * **seminal !** [The Link-Prediction Problem for Social Networks](http://cs.carleton.edu/faculty/dlibenno/papers/link-prediction/link.pdf)
 * [New perspectives and methods in link prediction](https://www3.nd.edu/~dial/publications/lichtenwalter2010new.pdf) at KDD10
-* 
 * Python NetworkX function :[```link_prediction``` ](https://networkx.github.io/documentation/development/reference/algorithms.link_prediction.html)
 * A [short example](http://stackoverflow.com/questions/27462803/python-networkx-link-prediction-with-adamic-adar-index) on SO
+* A [Tutorial using GraphLab](https://dato.com/learn/gallery/notebooks/link_prediction.html) on a large dataset
